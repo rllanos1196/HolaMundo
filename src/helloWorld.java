@@ -8,5 +8,7 @@ public class helloWorld {
 
         String userName = myObj.nextLine();
         System.out.println("Bienvenido a ClauPT: "+ userName);
+        
+        System.out.println(userName + " Ud. es licenciado en ClauPT");
     }
 }
