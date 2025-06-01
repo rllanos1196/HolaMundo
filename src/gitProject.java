@@ -3,5 +3,6 @@ public class gitProject {
         System.out.print("Bienvenido a GitHub");
         System.out.print("Haciendo Pruebas con GitHub");
         System.out.print("urracos");
+        System.out.print("Magaly medina");
     }
 }
